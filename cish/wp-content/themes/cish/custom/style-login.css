@@ -1,0 +1,17 @@
+body.login div#login h1 a {
+	background-image: none; 
+	width: auto;
+  height: auto;
+  font-size: 25px;
+  text-indent: 0;
+  color: #333;
+}
+.login label {
+	color: #fff;
+}
+.login form {
+	background: #0093d0;
+}
+#acf-field-title_ar { direction: rtl }
+/* dashboard menu tabs background color */
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, #adminmenu li.current a.menu-top, .folded #adminmenu li.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, #adminmenu .wp-menu-arrow, #adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow div {background-image:none; background: #0093d0; border-color:#0093d0}

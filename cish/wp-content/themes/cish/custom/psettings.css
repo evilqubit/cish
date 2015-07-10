@@ -1,0 +1,24 @@
+/* dashboard menu tabs background color */
+#adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, #adminmenu li.current a.menu-top, .folded #adminmenu li.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, #adminmenu .wp-menu-arrow, #adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow div {background-image:none; background: #0093d0; border-color:#0093d0}
+
+/*Settings*/
+#psettingsTabs {margin-top: 30px}
+.custom-table{color:#444;width:100%;margin-top: 10px;}
+.custom-table th{text-align:left;font-size:15px}
+.custom-table tr td{ vertical-align:middle;}
+.custom-table tr td:first-child{border-right:1px solid #555}
+.custom-table thead tr th:first-child{width:20%}
+.custom-table h3 {color: #444}
+.custom-table input[type="text"] { width: 50%; padding: 7px }
+.custom-table input, .custom-table .wp-editor-wrap, .custom-table select { margin-bottom: 20px !important; display: block }
+.custom-table label { display: block; margin-bottom: 10px }
+.custom-table-image.image-exists { width: 150px; height: 100px; display: block; margin-bottom: 10px }
+.custom-table .field-title { margin-bottom: 5px; display: block; font-weight: bold; font-size: 13px}
+.custom-table .field-title:not(:first-child) {padding-top:5px}
+.custom-table textarea {width:100%;padding:7px}
+.custom-table thead > tr > th, .custom-table tbody > tr > th,.custom-table tfoot > tr > th,.custom-table thead > tr > td,.custom-table tbody > tr > td,.custom-table tfoot > tr > td{padding:5px;border-top:1px solid #555}
+.custom-table caption + thead tr:first-child th,.custom-table thead:first-child tr:first-child th,.custom-table thead:first-child tr:first-child td{border-top:0}
+#acf-field-title_ar { direction: rtl }
+.custom-table .mce-edit-area iframe{
+	min-height: 200px;
+}

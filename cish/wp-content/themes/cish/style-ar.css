@@ -1,0 +1,202 @@
+body{
+  direction: rtl;
+}
+.owl-carousel .owl-item{
+	float: right;
+}
+#form-newsletter input[type='submit']{
+  right: 2px;
+	left: 0;
+}
+.event-actions{
+	left: 0;
+	right: auto
+}
+#col-search{
+	text-align: left;
+}
+.program-actions li:not(:last-child){
+	margin-left: 10px;
+	margin-right: 0;
+}
+.col-header-langs span, .col-header-langs .langs{
+	float: left;
+}
+.col-header-langs span{
+	margin-left: 10px;
+	margin-right: 0;
+}
+.phone-number-w{
+	float: right;
+}
+.mini-nav li a{
+	border-right: 0;
+	border-left: 1px solid #333;
+}
+.mini-nav li:last-child a{
+	border-left: 0;
+}
+.mini-nav li:first-child a {
+	padding-right: 0;
+	padding-left: 5px;
+}
+span.phone-number{
+	float: left;
+	padding-left: 0;
+	margin-left: 0;
+	margin-right: 5px;
+	padding-right: 12px;
+	background-position: top right;
+}
+.sf-menu ul ul {
+	left: auto;
+	right: 4px;
+}
+.langs li a{
+	padding-left: 0;
+	padding-right: 31px;
+	margin-left: 0;
+	margin-right: 5px;
+}
+.langs li.lang-arabic a{
+	background-position: 100% 97%;
+	padding-left: 0;
+	padding-right: 33px;
+}
+.langs li.lang-french a{
+	background-position: 100% 50%;
+}
+.langs li.lang-english a{
+	background-position: 100% 0%;
+}
+#col-header-langs span, #col-header-langs .langs {
+	float: left;
+}
+#col-header-langs span {
+	margin-right: 0;
+	margin-left: 10px;
+}
+.block-w .head a{
+	float: left;
+	text-align: left;
+}
+#section-statistics img{
+	margin-left: 10px;
+	margin-right: 0;
+}
+.entry .overlay{
+	left: auto;
+	right: 10px;
+}
+#form-contact button{
+	left: auto;
+	right: 10px;
+}
+.sitemap .children {
+	margin-left: 0;
+	margin-right: 20px;
+}
+.social-media li{
+	margin-right: 0;
+	margin-left: 5px;
+}
+.social-media .icon-facebook{
+	background: url(assets/img/icon-facebook.jpg) top right no-repeat;
+}
+.social-media .icon-twitter{
+	background: url(assets/img/icon-twitter.jpg) top right no-repeat;
+}
+.social-media .icon-googleplus{
+	background: url(assets/img/icon-googleplus.jpg) top right no-repeat;
+}
+.social-media .icon-linkedin{
+	background: url(assets/img/icon-linkedin.jpg) top right no-repeat;
+}
+.social-media .icon-pinterest{
+	background: url(assets/img/icon-pinterest.jpg) top right no-repeat;
+}
+
+#calendar-events-w table th:nth-child(1) .calendar-month-navigation {
+	background: url(assets/img/icon-calendar-right.png) center center no-repeat;
+}
+#calendar-events-w table th:nth-child(3) .calendar-month-navigation {
+	background: url(assets/img/icon-calendar-left.png) center center no-repeat;
+}
+.entry-publication-table{
+	padding: 0;
+	padding-left: 15px;
+}
+#form-contact .control-label{
+	text-align: right;
+}
+#footer-credits .social-media{
+	text-align: left;
+}
+#footer-info .head {
+	padding-left: 0;
+	padding-right: 25px;
+}
+#footer-info .head.head-footer-about {
+	background: url(assets/img/icon-about-footer.png) center right no-repeat;
+}
+#footer-info .head.head-footer-fb {
+	background: url(assets/img/icon-facebook-footer.png) center right no-repeat;
+}
+#footer-info .head.head-footer-tw {
+	background: url(assets/img/icon-twitter-footer.png) center right no-repeat;
+}
+#footer-info .head.head-footer-contact {
+	background: url(assets/img/icon-contact-footer.png) center right no-repeat;
+}
+#footer-info .contact-info li div{
+	padding-left: 0;
+	padding-right: 30px;
+}
+#footer-info .contact-info li.phone .subhead{
+	background: url(assets/img/icon-footer-phone.png) top right no-repeat;
+}
+#footer-info .contact-info li.pobox .subhead {
+	background: url(assets/img/icon-footer-pobox.png) top right no-repeat;
+}
+#footer-info .contact-info li.email .subhead{
+	background: url(assets/img/icon-footer-email.png) top right no-repeat;
+}
+#footer-info .contact-info li.fax .subhead{
+	background: url(assets/img/icon-footer-fax.png) top right no-repeat;
+}
+#sidebar-twitter ul li {
+	padding-left: 0;
+	background: url(assets/img/icon-twitter-footer.png) top right no-repeat;
+	padding-right: 30px;
+}
+#form-newsletter input[type='email']{
+	padding: 0 45px 0 10px;
+}
+
+li .icon-overlay {
+	right: -31%;
+	left: auto;
+}
+li .icon-overlay span {
+	right: 44%;
+	left: auto;
+}
+
+@media (max-width:1199px) {
+}
+@media (max-width:1050px) {
+}
+@media (min-width:992px) and (max-width:1200px) {
+}
+@media (max-width:767px){
+	#footer-credits .social-media{
+		text-align: center;
+	}
+}
+
+@media (max-width:421px) {
+}
+@media only screen and (min-width:768px) and (max-width:959px) {
+}
+@media only screen and (min-width:960px) and (max-width:1050px) {
+}
